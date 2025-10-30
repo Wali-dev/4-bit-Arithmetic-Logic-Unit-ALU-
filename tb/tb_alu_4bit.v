@@ -1,4 +1,4 @@
-// tb_alu_4bit.v
+
 // Comprehensive testbench with directed and randomized tests
 
 `timescale 1ns/1ps
