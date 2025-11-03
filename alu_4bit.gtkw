@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Oct 30 00:00:00 2025
+[*]
+[dumpfile] "sim/alu_4bit.vcd"
+[savefile] "alu_4bit.gtkw"
+[timestart] 0
+[size] 1920 1080
+[pos] -1 -1
+*-18.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_alu_4bit.
+[treeopen] tb_alu_4bit.dut.
+[sst_width] 250
+[signals_width] 200
+[sst_expanded] 1
+[sst_vpaned_height] 300
+
+@200
+-Inputs
+@22
+tb_alu_4bit.dut.A[3:0]
+tb_alu_4bit.dut.B[3:0]
+@28
+tb_alu_4bit.dut.opcode[3:0]
+@200
+-Outputs
+@22
+tb_alu_4bit.dut.result[3:0]
+@200
+-Flags
+@28
+tb_alu_4bit.dut.zero
+tb_alu_4bit.dut.carry
+tb_alu_4bit.dut.overflow
+tb_alu_4bit.dut.negative
+@200
+-Internal Signals
+@28
+tb_alu_4bit.dut.is_arithmetic
+@22
+tb_alu_4bit.dut.arith_result[3:0]
+tb_alu_4bit.dut.logic_result[3:0]
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
